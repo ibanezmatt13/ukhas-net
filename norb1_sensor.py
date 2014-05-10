@@ -1,3 +1,7 @@
+# This program is designed to run on a Raspberry Pi as a based UKHASnet node minus the radio transmitter
+# Work is being done to implement an RFM69 circuit to this node with software to follow
+# This script is designed to use a DHT22 with Adafruit's DHT library
+
 #!/usr/bin/python
 
 import subprocess
